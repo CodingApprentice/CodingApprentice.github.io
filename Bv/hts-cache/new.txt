@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-06:50:28	2516/2516	---MC-	403	error ('Forbidden')	text/html	date:Mon,%2019%20Mar%202018%2006:50:26%20GMT	http://bruceventure.com/robots.txt		(from )
-06:50:28	2506/2506	---MC-	403	error ('Forbidden')	text/html	date:Mon,%2019%20Mar%202018%2006:50:26%20GMT	http://bruceventure.com/	E:/GitHub/codingApprentice.github.io/Bv/bruceventure.com/index.html	(from )
